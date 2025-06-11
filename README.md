@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Emir Türkmen</h1>
-- 🔭 I’m currently working on **React**
-
 - 📫 How to reach me **turkmenemir35@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -15,3 +13,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=libaratul&show_icons=true&locale=en&layout=compact" alt="libaratul" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=libaratul&show_icons=true&locale=en" alt="libaratul" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=libaratul&" alt="libaratul" /></p>
